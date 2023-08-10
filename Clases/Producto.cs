@@ -2,7 +2,7 @@ namespace ejercicioClase.Clases;
 
     public class Producto
     {        
-        public string IdCategoria {get; set;}
+        public string IdCategoria {get; set;} 
         public string CodProducto {get; set;}
         public string Nombre {get; set;}
         public string Stock {get; set;}
