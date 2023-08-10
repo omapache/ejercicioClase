@@ -1,0 +1,5 @@
+/home/arteN01-040/Desktop/A/c#/c#10-08/ejercicioClase/obj/Debug/net7.0/ejercicioClase.csproj.AssemblyReference.cache
+/home/arteN01-040/Desktop/A/c#/c#10-08/ejercicioClase/obj/Debug/net7.0/ejercicioClase.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-040/Desktop/A/c#/c#10-08/ejercicioClase/obj/Debug/net7.0/ejercicioClase.AssemblyInfoInputs.cache
+/home/arteN01-040/Desktop/A/c#/c#10-08/ejercicioClase/obj/Debug/net7.0/ejercicioClase.AssemblyInfo.cs
+/home/arteN01-040/Desktop/A/c#/c#10-08/ejercicioClase/obj/Debug/net7.0/ejercicioClase.csproj.CoreCompileInputs.cache
