@@ -8,7 +8,8 @@ namespace ejercicioClase;
         private static List<Producto> productos = new();
 
         public static string FileName { get => fileNameProducto; set => fileNameProducto = value; }
-        public static string fileNameCategoria { get => fileNameCategoria; set => fileNameCategoria = value; }
+        public static string fileNameCategoria { get => fileNameCategoria; set => fileNameCategoria
+         = value; }
         public static List<Producto> Productos { get => productos; set => productos = value; }
 
         public static void LoadDataProductos(string nombreArchivo, List<Producto> listProducts)
