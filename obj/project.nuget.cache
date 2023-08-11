@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zZG5TFDLnYEEnomvjpQJPTUd3Z+dT2z8elSfEWsYerWEIqEctd1+BT6MlTo//18ww5saZVsStouu2vB15OC1Ww==",
+  "dgSpecHash": "nE2qaG18YVHevdNPUOBfLR5pE5j4NxbnX+OxKU+yBHnsd3iRjI1c7sXhh8G1HOrZnKYKCT2sUEwxxE42MjmmOA==",
   "success": true,
-  "projectFilePath": "/home/arteN01-040/Desktop/A/c#/c#10-08/ejercicioClase/ejercicioClase.csproj",
+  "projectFilePath": "/home/arteN01-040/Desktop/A/c#/c#11-08/ejercicioClase/ejercicioClase.csproj",
   "expectedPackageFiles": [
     "/home/arteN01-040/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
   ],

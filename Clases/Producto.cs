@@ -27,20 +27,13 @@ namespace ejercicioClase.Clases;
                 File.WriteAllText(Env.FileName, "");
             }
         }
-        public Producto AgregarProducto(string codProducto,List<Categoria> categorias){
-/*             List<Categoria> categori = new();
- */            Console.Clear();
+        public Producto AgregarProducto(string codProducto){
+            Console.Clear();
             Console.WriteLine("Ingrese el id de la categoria a la cual quiere ingresar el producto: ");
             string IdCategoria = Console.ReadLine();
-/*             var filteredResult = from s in categorias
-                    where s.Id == IdCategoria
-                    select s;
-            foreach (Categoria cate in filteredResult)
-            {
-                categori.Add(cate);
-            } */
+
             Console.WriteLine("Ingrese el Nombre del producto");
-            string Nombrestring = Console.ReadLine();
+            string Nombre = Console.ReadLine();
 
             Console.WriteLine("Ingrese el Stock del producto");
             int Stock = int.Parse(Console.ReadLine());
